@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SIGNUpUI</string>
+    <string name="hyperlink"> <a href="https://magnetoitsolutions.com/">Terms of Services</a></string>
+    <string name="hyperlink1"> <a href="https://magnetoitsolutions.com/">Privacy Policy</a> </string>
+    <string name="hyperlink2"> <a href="https://magnetoitsolutions.com/">Login</a></string>
+    <string name="signup">SIGN UP</string>
+    <string name="skip">SKIP</string>
+
+
+</resources>
